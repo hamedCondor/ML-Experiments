@@ -28,3 +28,4 @@ Contact me for any questions or discussions about the projects.
 Additional Information:
 
 My Kaggle Profile : https://www.kaggle.com/hamedbeiraghdar
+My E-Mail : hamed.beyraghdar@gmail.com
